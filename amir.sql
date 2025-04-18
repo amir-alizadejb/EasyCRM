@@ -1,0 +1,6 @@
+CREATE TABLE customer (
+	ID INT PRIMARY KEY,
+	Name VARCHAR(20),
+	Last_name VARCHAR(20),
+	Phone VARCHAR(20)
+);
